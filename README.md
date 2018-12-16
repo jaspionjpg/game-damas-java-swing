@@ -3,4 +3,4 @@
 
 Jogo de damas feito em java com swing
 
-![damas](https://imgur.com/a/WECWzTI "Jogo de damas")
+[Imgur](https://i.imgur.com/jEZiPFG.png)
